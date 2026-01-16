@@ -1,0 +1,7 @@
+{
+  "name": "SmartPlate AI",
+  "description": "An AI-powered license plate recognition tool that extracts vehicle details and plate numbers from images using Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
