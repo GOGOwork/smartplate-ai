@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  GEMINI_API_KEY=AIzaSyDKZSX8Zrz0Xc8ZJHBwzH8tB_Ho_-mbKak
+  GEMINI_API_KEY: AIzaSyDKZSX8Zrz0Xc8ZJHBwzH8tB_Ho_-mbKak
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
